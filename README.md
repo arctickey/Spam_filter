@@ -1,2 +1,2 @@
 # Spam_filter
-Making machine learning program to detect spam in GUI app.
+Machine learning program to detect spam with use of simple but pretty GUI app.
